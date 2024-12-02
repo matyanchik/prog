@@ -91,3 +91,6 @@ int main() {
 5. График функции в gnuplot:
 
 ![График функции](plot.png)
+
+## Ссылки на используемые материалы
+https://evil-teacher.on.fleek.co/prog_pm/term1/lab02/
