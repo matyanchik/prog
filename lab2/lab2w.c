@@ -11,7 +11,6 @@ float f(float x, float h) {
 }
 int main() {
     float h, x = 0;
-    //printf("введите h> "); 
     scanf("%f", &h);
     printf("x\t\tf(x)\n");
     while(x <= 2.0f) {
