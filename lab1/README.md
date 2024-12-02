@@ -43,3 +43,6 @@ int main() {
     return 0;
 }
 ```
+
+## Ссылки на используемые материалы
+https://evil-teacher.on.fleek.co/prog_pm/term1/lab01/
