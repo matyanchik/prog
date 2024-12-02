@@ -114,10 +114,10 @@ int main() {
 }
 ```
 
-![](screens/3.png)
+![Снимок экрана](3.jpg)
 
 ## Ссылки на используемые материалы
-https://evil-teacher.on.fleek.co/prog_pm/term1/lab06/
-https://habr.com/ru/companies/otus/articles/529356/
-https://docs.python.org/3/library/itertools.html
+https://evil-teacher.on.fleek.co/prog_pm/term1/lab06/<br>
+https://habr.com/ru/companies/otus/articles/529356/<br>
+https://docs.python.org/3/library/itertools.html<br>
 https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03
