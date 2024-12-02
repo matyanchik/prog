@@ -23,3 +23,8 @@ int main ()
 
 Список файлов\
 ![Мой скриншот7](pix/7.png)
+
+## Ссылки на используемые материалы
+https://evil-teacher.on.fleek.co/prog_pm/term1/lab00/
+https://doka.guide/tools/markdown/
+https://github.com/still-coding/report_demo
