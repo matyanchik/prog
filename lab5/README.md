@@ -9,7 +9,7 @@
 ![](33.png)
 ## График функции из своего варианта (вариант 7)
 $$
-
+f(x) = e^{-2 sin x}
 $$
 ```python
 import matplotlib.pyplot as plt
