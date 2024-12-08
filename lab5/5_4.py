@@ -3,7 +3,8 @@ import numpy as np
 from math import *
 
 def f(x):
-    exp(-2 * sin(x))
+    return exp(-2 * sin(x))
+
 x = np.linspace(-3, 3, 1000)
 y1 = [f(i) for i in x]
 y2 = [1 for i in x]
