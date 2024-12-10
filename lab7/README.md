@@ -32,7 +32,7 @@ def create_n_dim_array_recursive(dimensions, size):
 
 print(create_n_dim_array_recursive(3, 2))
 ```
-![](screens/7_1r.jpg)
+![](7_1r.jpg)
 
 #### Без рекурсии
 ```
@@ -48,7 +48,7 @@ def create_n_dim_array(dimensions, size):
 
 print(create_n_dim_array(3, 2))
 ```
-![](screens/7_1b.jpg)
+![](7_1b.jpg)
 
 ### Задача 2
 Функция для расчёта 
@@ -71,7 +71,7 @@ def compute_b(k, x):
 result_recursive = compute_with_recursion(5, 2)
 print(f"Результат с рекурсией (n=5, x=2): {result_recursive}")
 ```
-![](screens/7_2r.jpg)
+![](7_2r.jpg)
 
 #### Без рекурсии
 ```
@@ -86,4 +86,4 @@ def compute_without_recursion(n, x):
 result_non_recursive = compute_without_recursion(5, 2)
 print(f"Результат без рекурсии (n=5, x=2): {result_non_recursive}")
 ```
-![](screens/7_2b.jpg)
+![](7_2b.jpg)
