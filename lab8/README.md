@@ -48,17 +48,17 @@ get_hp, heal, take_damage = hero_manager()
 
 print(f"Текущие HP: {get_hp()}")
 
-heal(20)
-print(f"Текущие HP после лечения: {get_hp()}")
-
-take_damage(50)
+take_damage(20)
 print(f"Текущие HP после урона: {get_hp()}")
 
-take_damage(100)
+heal(18)
+print(f"Текущие HP после лечения: {get_hp()}")
+
+take_damage(40)
 print(f"Текущие HP после тяжелого урона: {get_hp()}")
 ```
 
-![](screens/1.png)
+![](screens/8_1.jpg)
 
 ### Задача 2
 Декоратор для подавления вывода функции на консоль.
@@ -107,14 +107,14 @@ get_hp, heal, take_damage = hero_manager()
 
 print(f"Текущие HP: {get_hp()}")
 
-heal(20)
-print(f"Текущие HP после лечения: {get_hp()}")
-
 take_damage(50)
 print(f"Текущие HP после урона: {get_hp()}")
 
-take_damage(100)
+heal(20)
+print(f"Текущие HP после лечения: {get_hp()}")
+
+take_damage(69)
 print(f"Текущие HP после тяжелого урона: {get_hp()}")
 ```
 
-![](screens/8_1.jpg)
+![](screens/8_2.jpg)
