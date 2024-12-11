@@ -66,7 +66,7 @@ numbers_found.sort()
 print(numbers_found)
 ```
 
-![Снимок экрана](3.jpg)
+![Снимок экрана](screen.jpg)
 
 ## Ссылки на используемые материалы
 https://evil-teacher.on.fleek.co/prog_pm/term1/lab06/<br>
