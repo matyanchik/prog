@@ -16,7 +16,7 @@ invalid_words = (words_starting_with_E + words_ending_with_A -
                  words_starting_with_E_and_ending_with_A)
 
 valid_words = total_words - invalid_words
-print(valid_words)  # Вывод: 2000
+print(valid_words)
 ```
 
 ### Задача 2
