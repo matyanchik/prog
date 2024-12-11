@@ -51,7 +51,7 @@ print(create_n_dim_array(3, 2))
 ![](7_1b.jpg)
 
 ### Задача 2
-Функция для расчёта 
+Функция для расчёта Y(k) = b(k)Y(k−1). Y(o) = 1, b(k) = b(k−1)x^2, b(o) = 1/2x,x ≠ 0.
 #### С рекурсией
 ```
 def compute_with_recursion(k, x):
