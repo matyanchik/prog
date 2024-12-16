@@ -26,4 +26,4 @@ if __name__ == "__main__":
     typer.run(main)
 ```
 
-![](10.jpg)
+![](uXAzqPFFxXhLhzI8YvsQzHY48gq7zKAN4mAMJERUaLP8JrX3gFsuJHKWevY4_JR5uAEx6UtxxUjm7Pqxhvc5-UG.jpg)
